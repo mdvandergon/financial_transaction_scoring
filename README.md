@@ -3,6 +3,9 @@ Using graph embeddings and Tensorflow to predict AML fraud
 
 Right now, I have a Colab that has a pretty basic model using an embedding of the transaction graph. This can run on a decent laptop. As I look through the simulated data, I might enhance the model; I haven't made a fraud-detection model before.
 
+<a target="_blank" href="https://colab.research.google.com/drive/1RrgtwWHPih8V3wceJDG60FcbXwFzD8bI?usp=sharing"><img src="https://www.tensorflow.org/images/colab_logo_32px.png" />Run in Google Colab</a>
+
+
 ### Data
 
 I am using some data from the IBM AMLSim repo, which has several datasets pre-generated and some nice papers: 
